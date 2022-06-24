@@ -9,3 +9,4 @@
 5. После того как контейнеры поднялись, мы вводим следующую команду: `./vendor/bin/sail artisan mirgate:fresh --seed`, а затем 
 `./vendor/bin/sail npm install` и после неё `./vendor/bin/sail npm run dev`.
 6. Заходим на сайт `http://localhost`.
+7. Пример данных XML находиться в папке `public`, файл `xml_data.xml`.
